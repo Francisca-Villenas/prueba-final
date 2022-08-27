@@ -1,0 +1,44 @@
+html {
+    box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+/*main - section*/
+.rounded {
+    width: 30rem;
+    padding: 5rem;
+    margin-left: 2rem;
+    
+}
+
+.text {
+    padding-top: 3rem;
+    padding-right: 0rem;
+    width: 100rem;
+    text-align: justify;
+    height: 40rem;
+}
+
+.card {
+    width: 18rem;
+}
+
+.card-img-top {
+    width: 18rem;
+    height: 17rem;
+}
+
+
+.fa-brands {
+    text-align: center;
+}
+
+/*footer*/
+.icon {
+    font-size: 1,8rem;
+    text-align: center;
+}
