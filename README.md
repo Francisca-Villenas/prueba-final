@@ -1,3 +1,5 @@
-# Puedes ver el proyecto aquí
+#Prueba final
 
-- https://francisca-villenas.github.io/prueba-final/
+## Revisa el proyecto aquí
+
+- [aquí puedes revisarlo](https://francisca-villenas.github.io/prueba-final/)
