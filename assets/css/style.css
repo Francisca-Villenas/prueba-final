@@ -12,7 +12,6 @@ html {
     width: 30rem;
     padding: 5rem;
     margin-left: 2rem;
-    
 }
 
 .text {
@@ -32,13 +31,16 @@ html {
     height: 17rem;
 }
 
-
 .fa-brands {
     text-align: center;
 }
 
 /*footer*/
 .icon {
-    font-size: 1,8rem;
+    font-size: 1, 8rem;
     text-align: center;
+}
+
+.h-300 {
+    max-height: 300px;
 }
